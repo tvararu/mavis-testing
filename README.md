@@ -16,6 +16,24 @@ asdf plugin add poetry
 asdf install
 ```
 
+## Installing dependencies
+
+```bash
+bin/setup
+```
+
+## Running the tests
+
+```bash
+bin/test
+```
+
+## Running the linters
+
+```bash
+bin/lint
+```
+
 ## Licence
 
 [MIT](LICENCE).

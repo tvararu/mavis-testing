@@ -20,6 +20,14 @@ bin/asdf
 bin/setup
 ```
 
+## Configure environment variables
+
+```bash
+cp .env.example .env
+```
+
+Edit the `.env` file to set the username and password for the test environment.
+
 ## Running the tests
 
 ```bash

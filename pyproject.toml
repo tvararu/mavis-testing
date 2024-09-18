@@ -8,6 +8,9 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
+playwright = "^1.47.0"
+pytest = "^8.3.3"
+pytest-playwright = "^0.5.2"
 
 [build-system]
 requires = ["poetry-core"]

@@ -11,9 +11,7 @@ This project uses `asdf`. Use can use the following to install the required
 tools:
 
 ```bash
-asdf plugin add python
-asdf plugin add poetry
-asdf install
+bin/asdf
 ```
 
 ## Installing dependencies

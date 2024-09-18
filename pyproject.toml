@@ -12,6 +12,9 @@ playwright = "^1.47.0"
 pytest = "^8.3.3"
 pytest-playwright = "^0.5.2"
 
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.6.5"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
